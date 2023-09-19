@@ -1,0 +1,13 @@
+leftnav:
+- identifier: external-8419f8bf061d4317a79b897453c3b7c1
+  name: I. Electronic Materials and Devices
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITX+3.15.1x+2T2017/about
+  weight: 10
+- identifier: external-0947c5611f9243799d0b14a53c76a03a
+  name: II. Optical Materials and Devices
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+3.15.2x+2T2017/about
+  weight: 20
+- identifier: external-bfa5bd8b95c34a70a305cebbee188418
+  name: III. Magnetic Materials and Devices
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+3.15.3x+2T2017/about
+  weight: 30
